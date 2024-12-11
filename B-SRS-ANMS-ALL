@@ -2,8 +2,8 @@
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/3-SEL-ANMS-ALL/main/B-SRS-ANMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>		
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -104,6 +104,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]Castlevania (2017-2021) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2K-LS-SPTR-ALL/refs/heads/main/D01C1-DSH-Castlevania.2017-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/zSV78u29RB5PAOfwE8liVJcxKc1.jpg</fanart>
+<info>[COLOR white]Assista aqui o desenho: 
+[B]Castlevania
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANOS[COLOR yellow] -> [COLOR white]2017 a 2021
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]ANIMAÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]04 TEMPs - 32 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Um caçador de vampiros luta para salvar uma cidade sitiada por um exército de 
+criaturas controladas pelo próprio Drácula. Inspirado no clássico videogame.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "D"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -124,7 +146,29 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "E"				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+				
+<channels>
+<channel>
+<name>[COLOR white][B]Exterminador Implacável Zero (2024) - COMPLETA[COLOR yellow] -> [COLOR orange]LS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/2J-LS-FCFN-ALL/main/D09C-DSH-Ext.do.Futuro-ALL</externallink>
+<thumbnail>https://image.tmdb.org/t/p/original/tK9uDDtuqI2ydM63vMj80psbLSD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/woH18JkZMYhMSWqtHkPA4F6Gd1z.jpg</fanart>
+<info>[COLOR white]Assista aqui o anime: 
+[B]Exterminador Implacável Zero
+[COLOR orange]STATUS[COLOR yellow] -> [COLOR white]COMPLETA
+[COLOR orange]ANO[COLOR yellow] -> [COLOR white]2024
+[COLOR orange]GÊNERO[COLOR yellow] -> [COLOR white]FICÇÃO
+[COLOR orange]INFO[COLOR yellow] -> [COLOR white]01 TEMPs - 08 EPs
+[COLOR orange]SINOPSE[COLOR yellow] -> [COLOR white]Uma guerreira de um futuro pós-apocalíptico viaja até 1997 para proteger um 
+cientista de inteligência artificial que está a ser atormentado por um ciborgue indestrutível.
+[/B][COLOR black].[/COLOR]
+Encontrou erros ?
+Avise o SUPORTE AO USUÁRIO.
+[/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "F"				
@@ -323,8 +367,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR black].[/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/B-SRS-ANMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -333,8 +377,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]MENU DE RETORNO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/B-SRS-ANMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -344,8 +388,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE ANIMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/3-SEL-ANMS-ALL/main/1-SEL-ANMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -355,8 +399,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE GÊNEROS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2A-SEL-GEN-FLM-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -366,8 +410,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES LS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3A-SEL-SRS-LS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -377,8 +421,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE SÉRIES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/3-SEL-SRS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
@@ -388,8 +432,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR white][B]VOLTAR AO MENU DE FILMES[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/1-SEL-GERAL-ALL/main/2-SEL-FLMS-ALL</externallink>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<thumbnail>https://i.ibb.co/dKxgjNM/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/nPT8k0L/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
 </channel>
 </channels>
